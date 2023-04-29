@@ -32,7 +32,7 @@ public class Shirt {
 		return brand;
 	}
 	public void setBrand(String brand) {
-		this.brand = brand;
+		this.brand = brand;									
 	}
 	public String getColor() {
 		return color;
